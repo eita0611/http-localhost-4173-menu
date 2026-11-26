@@ -1,0 +1,128 @@
+{
+  "art-mixed-nuance": {
+    "width": 2000,
+    "height": 1207,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "art-navy-gold": {
+    "width": 2000,
+    "height": 2500,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "concept-beige-hand": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "experience-nude-hands": {
+    "width": 2000,
+    "height": 1125,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "foot-navy": {
+    "width": 2000,
+    "height": 2667,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "hero-nude-beige": {
+    "width": 2000,
+    "height": 3191,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "korean-chrome-3d": {
+    "width": 2000,
+    "height": 2429,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "korean-gradient": {
+    "width": 2000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "korean-shell-parts": {
+    "width": 2000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "magnet-grey-cateye": {
+    "width": 2000,
+    "height": 1497,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "simple-french": {
+    "width": 2000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "simple-greige-glitter": {
+    "width": 2000,
+    "height": 2001,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "trend-mirror-chrome": {
+    "width": 2000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "trend-tortoiseshell": {
+    "width": 2000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440
+    ]
+  }
+}
